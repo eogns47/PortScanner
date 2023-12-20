@@ -1,0 +1,5 @@
+# Ignore generated persistence.xml file
+src/main/resources/META-INF/persistence.xml
+
+# Ignore generated application.properties file
+src/main/resources/application.properties

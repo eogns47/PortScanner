@@ -1,0 +1,18 @@
+HTTP 응답 코드: 200
+Exception in thread "main" java.lang.NoClassDefFoundError: com/google/gson/Gson
+	at Potatonet.PortScan.application.APICaller.getIpListWithPortList(APICaller.java:42)
+	at Potatonet.PortScan.Main.main(Main.java:22)
+Caused by: java.lang.ClassNotFoundException: com.google.gson.Gson
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 2 more
+HTTP 응답 코드: 200
+Exception in thread "main" java.lang.NoClassDefFoundError: com/google/gson/Gson
+	at Potatonet.PortScan.application.APICaller.getIpListWithPortList(APICaller.java:42)
+	at Potatonet.PortScan.Main.main(Main.java:22)
+Caused by: java.lang.ClassNotFoundException: com.google.gson.Gson
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 2 more
